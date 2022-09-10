@@ -1,0 +1,35 @@
+C:\Users\Akatsuki\Desktop\ImgApp-master\bin\Debug\ImgApp.exe.config
+C:\Users\Akatsuki\Desktop\ImgApp-master\bin\Debug\ImgApp.exe
+C:\Users\Akatsuki\Desktop\ImgApp-master\bin\Debug\ImgApp.pdb
+C:\Users\Akatsuki\Desktop\ImgApp-master\obj\Debug\ImgApp.csprojAssemblyReference.cache
+C:\Users\Akatsuki\Desktop\ImgApp-master\obj\Debug\ImgApp.csproj.CoreCompileInputs.cache
+C:\Users\Akatsuki\Desktop\ImgApp-master\obj\Debug\ImgApp.exe
+C:\Users\Akatsuki\Desktop\ImgApp-master\obj\Debug\ImgApp.pdb
+C:\Users\Akatsuki\Desktop\scoi_laba\bin\Debug\ImgApp.exe.config
+C:\Users\Akatsuki\Desktop\scoi_laba\bin\Debug\ImgApp.exe
+C:\Users\Akatsuki\Desktop\scoi_laba\bin\Debug\ImgApp.pdb
+C:\Users\Akatsuki\Desktop\scoi_laba\obj\Debug\ImgApp.csprojAssemblyReference.cache
+C:\Users\Akatsuki\Desktop\scoi_laba\obj\Debug\ImgApp.csproj.CoreCompileInputs.cache
+C:\Users\Akatsuki\Desktop\scoi_laba\obj\Debug\ImgApp.exe
+C:\Users\Akatsuki\Desktop\scoi_laba\obj\Debug\ImgApp.pdb
+C:\Users\Akatsuki\Desktop\scoi_laba_1_Andrusenko\bin\Debug\ImgApp.exe.config
+C:\Users\Akatsuki\Desktop\scoi_laba_1_Andrusenko\bin\Debug\ImgApp.exe
+C:\Users\Akatsuki\Desktop\scoi_laba_1_Andrusenko\bin\Debug\ImgApp.pdb
+C:\Users\Akatsuki\Desktop\scoi_laba_1_Andrusenko\obj\Debug\ImgApp.csprojAssemblyReference.cache
+C:\Users\Akatsuki\Desktop\scoi_laba_1_Andrusenko\obj\Debug\ImgApp.csproj.CoreCompileInputs.cache
+C:\Users\Akatsuki\Desktop\scoi_laba_1_Andrusenko\obj\Debug\ImgApp.exe
+C:\Users\Akatsuki\Desktop\scoi_laba_1_Andrusenko\obj\Debug\ImgApp.pdb
+C:\Users\Akatsuki\Desktop\scoi_laba_3_Andrusenko\obj\Debug\ImgApp.csprojAssemblyReference.cache
+C:\Users\Akatsuki\Desktop\scoi_laba_3_Andrusenko\obj\Debug\ImgApp.csproj.CoreCompileInputs.cache
+C:\Users\Akatsuki\Desktop\scoi_laba_3_Andrusenko\obj\Debug\ImgApp.exe
+C:\Users\Akatsuki\Desktop\scoi_laba_3_Andrusenko\obj\Debug\ImgApp.pdb
+C:\Users\Akatsuki\Desktop\scoi_laba_3_Andrusenko\bin\Debug\ImgApp.exe.config
+C:\Users\Akatsuki\Desktop\scoi_laba_3_Andrusenko\bin\Debug\ImgApp.exe
+C:\Users\Akatsuki\Desktop\scoi_laba_3_Andrusenko\bin\Debug\ImgApp.pdb
+D:\Akatsuki\YandexDisk\Учебные материалы\Системы цифровой обработки изображений\scoi_laba_4_Andrusenko\bin\Debug\ImgApp.exe.config
+D:\Akatsuki\YandexDisk\Учебные материалы\Системы цифровой обработки изображений\scoi_laba_4_Andrusenko\bin\Debug\ImgApp.exe
+D:\Akatsuki\YandexDisk\Учебные материалы\Системы цифровой обработки изображений\scoi_laba_4_Andrusenko\bin\Debug\ImgApp.pdb
+D:\Akatsuki\YandexDisk\Учебные материалы\Системы цифровой обработки изображений\scoi_laba_4_Andrusenko\obj\Debug\ImgApp.csprojAssemblyReference.cache
+D:\Akatsuki\YandexDisk\Учебные материалы\Системы цифровой обработки изображений\scoi_laba_4_Andrusenko\obj\Debug\ImgApp.csproj.CoreCompileInputs.cache
+D:\Akatsuki\YandexDisk\Учебные материалы\Системы цифровой обработки изображений\scoi_laba_4_Andrusenko\obj\Debug\ImgApp.exe
+D:\Akatsuki\YandexDisk\Учебные материалы\Системы цифровой обработки изображений\scoi_laba_4_Andrusenko\obj\Debug\ImgApp.pdb
